@@ -6,3 +6,8 @@ yolov8x.pt
 
 venv/
 
+output_videos/
+
+models/
+
+training/
